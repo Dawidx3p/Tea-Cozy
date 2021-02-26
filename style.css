@@ -7,6 +7,7 @@ body {
     background-color: black;
     font-size: 22px;
     text-align: center;
+    opacity: 0.9;
   }
   
   a {
@@ -67,7 +68,6 @@ body {
   #mission {
     height: 700px;
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
-    padding-top: 70px;
   }
   
   #mission .content {
@@ -97,7 +97,6 @@ body {
   
   .item span {
     display: block;
-    padding: 5px;
     font-weight: bold;
     text-align: center;
   }
